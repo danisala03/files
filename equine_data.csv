@@ -1,0 +1,22 @@
+ID;preventive;responsive;investigation;self management;other func type;trainings;symptoms;monitoring;register activities;recommendations;activities programming;other feature;sensors;cameras;mobile;other device;storage platform;web deliver;mobile deliver;awin;facial action;behavior;other technique;automated;experts;questionnaire;interviews;test in field;background;other;equines;design;expensive;wifi;data management;ia;aci;hci
+1;0;0;0;1;0;0;1;1;1;0;0;0;1;0;0;0;Cloud;1;1;0;0;1;0;0;0;1;0;0;1;0;0;1;1;0;0;0;1;1
+3;0;0;1;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;stress level;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1
+4;1;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;1;0;mood;0;0;0;0;0;1;0;0;1;0;0;1;1;1;1
+5;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;Stress or pain level;0;0;0;1;0;1;Observation;Horse only;0;0;0;0;0;1;1
+6;1;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;Thermography;0;1;0;0;1;1;0;0;1;1;0;1;0;0;0
+8;0;0;0;1;0;0;0;1;1;0;0;0;1;0;1;0;Cloud;0;1;0;0;1;0;1;0;0;0;0;1;Case Study;0;0;0;0;1;1;1;1
+10;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0
+13;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0
+14;0;0;1;0;0;0;0;1;0;1;0;0;1;0;0;Drones;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;1
+15;0;0;0;1;0;0;0;1;0;0;0;0;1;1;0;Drones;Cloud;1;1;0;0;1;0;0;0;0;0;0;1;0;0;1;1;1;1;1;0;0
+20;0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;smart collar tags;Cloud;1;0;0;0;1;0;1;1;0;0;1;0;0;Future work for horses;1;1;1;1;0;0;0
+22;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;1
+26;0;0;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;Discrimination Tasks;1;0;0;0;0;1;0;Horse only;1;1;0;1;0;1;0
+28;0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;Teclados o artefactos similares conectados a una computadora;Cloud;1;0;0;0;0;Augmentative and Alternative Communication (AAC);0;0;0;0;1;1;0;0;1;0;0;1;0;1;0
+41;1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;Server;1;1;0;0;0;Heart monitoring data;1;0;0;0;0;1;0;Horse only;1;1;0;0;0;0;0
+42;0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;Actimeter with accelerometer, gyroscopes;Server;0;0;0;0;0;Therapy;1;0;0;0;1;0;0;Horse only;1;0;0;0;0;0;0
+44;0;0;0;1;0;1;0;1;0;0;0;0;1;0;1;0;Cloud;0;1;0;0;0;Racing trainings;1;0;0;0;1;0;0;Horse only;1;0;0;0;1;0;0
+45;0;0;0;1;0;1;0;1;0;0;0;0;1;0;0;0;Server;1;0;0;0;0;Racing trainings focused on jumping;1;1;0;0;1;0;0;Horse only;1;0;0;1;0;0;0
+46;1;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;Cloud;1;1;0;0;0;Drinking monitoring with analytics;1;0;0;0;1;0;0;Horse only;1;0;0;0;0;0;0
+47;1;0;0;0;0;0;0;1;1;0;0;0;1;1;0;Microphone, accelerometer, gyroscopes, smartwatch;Cloud;1;0;0;0;1;Animal Activity Recognition (AAR);1;1;0;0;1;1;0;Horse only;1;0;0;1;1;0;0
+48;1;0;0;0;0;0;0;1;1;0;0;0;1;0;0; Tri-axial ccelerometer;Server;1;0;0;0;1;0;1;1;0;0;1;1;0;Horse only;1;0;0;1;1;0;0
