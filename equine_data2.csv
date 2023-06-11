@@ -1,0 +1,39 @@
+ID;preventive;responsive;investigation;self management;other func type;trainings;symptoms;monitoring;register activities;recommendations;activities programming;other feature;sensors;cameras;mobile;other device;storage platform;web deliver;mobile deliver;facial action;behavior;other technique;automated;experts;questionnaire;interviews;test in field;background;other;equines;design;expensive;wifi;data management;ia;aci;hci
+0;0;0;1;0;0;1;1;1;0;0;0;1;0;0;0;Cloud;1;1;0;1;0;0;0;1;0;0;1;0;0;1;1;0;0;0;1;1;
+0;0;1;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;1;0;Stress monitoring;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;
+1;0;1;0;0;0;1;1;0;0;0;0;1;1;0;0;0;0;0;1;0;Mood monitoring;0;0;0;0;0;1;0;0;1;0;0;1;1;1;1;
+1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;Stress monitoring;0;0;0;1;0;1;Observation;Horse only;0;0;0;0;0;1;1;
+1;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;0;Thremography;0;1;0;0;1;1;0;0;1;1;0;1;0;0;0;
+0;0;0;1;0;0;0;1;1;0;0;0;1;0;1;0;Cloud;0;1;0;1;0;1;0;0;0;0;1;Case Study;0;0;0;0;1;1;1;1;
+0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;
+0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;0;
+0;0;1;0;0;0;0;1;0;1;0;0;1;0;0;Drones;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;1;1;
+0;0;0;1;0;0;0;1;0;0;0;0;1;1;0;Drones;Cloud;1;1;0;1;0;0;0;0;0;0;1;0;0;1;1;1;1;1;0;0;
+0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;Smart collars;Cloud;1;0;0;1;0;1;1;0;0;1;0;0;Future work for horses;1;1;1;1;0;0;0;
+0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;1;
+0;0;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;Discrimination Tasks;1;0;0;0;0;1;0;Horse only;1;1;0;1;0;1;0;
+0;0;0;0;1;0;0;0;0;0;0;1;0;0;1;Keyboards and similar artifacts that are connected to computers;Cloud;1;0;0;0;Augmentative and Alternative Communication (AAC);0;0;0;0;1;1;0;0;1;0;0;1;0;1;0;
+1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;Server;1;1;0;0;Heart monitoring;1;0;0;0;0;1;0;Horse only;1;1;0;0;0;0;0;
+0;1;0;0;0;1;0;0;1;0;0;0;1;0;0;Actimeter with accelerometer, gyroscopes;Server;0;0;0;0;Therapy;1;0;0;0;1;0;0;Horse only;1;0;0;0;0;0;0;
+0;0;0;1;0;1;0;1;0;0;0;0;1;0;1;0;Cloud;0;1;0;0;Racing trainings;1;0;0;0;1;0;0;Horse only;1;0;0;0;1;0;0;
+0;0;0;1;0;1;0;1;0;0;0;0;1;0;0;0;Server;1;0;0;0;Racing trainings;1;1;0;0;1;0;0;Horse only;1;0;0;1;0;0;0;
+1;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;Cloud;1;1;0;0;Drink monitoring;1;0;0;0;1;0;0;Horse only;1;0;0;0;0;0;0;
+1;0;0;0;0;0;0;1;1;0;0;0;1;1;0;Microphone, accelerometer, gyroscopes, smartwatch;Cloud;1;0;0;1;Animal Activity Recognition (AAR);1;1;0;0;1;1;0;Horse only;1;0;0;1;1;0;0;
+1;0;0;0;0;0;0;1;1;0;0;0;1;0;0; Tri-axial accelerometer;Server;1;0;0;1;0;1;1;0;0;1;1;0;Horse only;1;0;0;1;1;0;0;
+0;0;0;1;0;1;0;1;0;0;0;0;1;0;0;Impulse Radio Ultra Wide Band ;Server;1;0;0;1;Racing trainings;1;0;0;0;1;0;0;Horse only;1;1;1;1;0;0;0;
+1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;Belt;Cloud;1;0;0;1;Animal Activity Recognition (AAR) and Augmentative and Alternative Communication (AAC);1;1;0;0;1;0;0;Horse only;1;1;1;1;1;0;0;
+1;0;0;0;0;0;0;1;0;0;0;0;1;0;0;Accelerometer and smartwatch;NA;1;1;0;1;Animal Activity Recognition (AAR);1;1;0;0;1;1;0;Horse only;1;0;0;0;0;1;0;
+1;0;0;1;0;0;0;1;1;0;0;0;1;0;0;Accelerometer, gyroscopes and ZigBee wireless communication module;Cloud;1;0;0;1;Animal Activity Recognition (AAR);1;1;0;0;1;1;0;0;1;0;0;1;1;0;0;
+0;1;0;1;0;0;1;1;0;0;0;0;1;0;0;Accelerometer;NA;0;1;0;1;Therapy;1;1;0;0;1;0;0;Horse only;1;0;0;0;0;0;0;
+0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;Smart collars;Server;1;0;0;1;Overall Dynamic Body Acceleration (ODBA);1;1;0;0;1;0;0;Horse only;1;0;0;1;1;1;0;
+0;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;Server;1;0;0;1;0;1;0;0;0;1;1;0;Horse only;1;0;0;0;0;0;0;
+1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;Accelerometer;Server;1;0;0;1;0;1;1;0;0;1;0;0;Horse only;1;0;0;0;1;0;0;
+0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;NA;0;0;0;0;0;0;0;0;0;0;0;0;Horse only;1;0;0;1;0;0;1;
+1;0;1;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;Equines;1;1;0;1;0;0;1;
+1;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;NA;0;0;0;0;Mood monitoring;0;0;0;0;0;0;0;Horse only;1;0;0;0;0;0;0;
+1;0;0;1;0;0;1;1;1;0;0;0;0;0;0;Questionnaire;Server;0;0;0;0;Assessment Questionnaire;0;0;0;0;0;0;0;Equines;0;0;0;1;0;0;0;Scoring method!!
+1;0;1;1;0;0;1;1;1;0;0;0;0;0;0;Questionnaire;NA;0;0;0;0;Assessment Questionnaire;0;0;0;0;0;0;0;Equines;1;0;0;0;0;0;0;Questionnaire Standard!!
+1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;Questionnaire;Server;0;0;0;0;Assessment Questionnaire and Horse Grimace Scale;0;0;0;0;0;0;0;Horse only;0;0;0;0;0;0;0;grimace
+0;0;1;1;0;0;1;1;0;0;0;0;1;1;1;0;NA;0;0;0;1;0;0;0;0;0;0;1;0;Equines;1;0;0;0;0;1;0;
+0;0;1;1;0;0;0;1;0;0;0;0;1;0;0;Accelerometer;Server;1;1;0;1;0;1;1;0;0;1;0;0;Horse only;1;0;0;0;0;1;0;
+1;1;0;1;0;0;1;1;1;0;0;0;0;0;1;Questionnaire;;;;0;0;Assessment Questionnaire and Horse Grimace Scale;1;1;0;0;1;1;0;Horse only;1;0;0;1;0;0;0;Questionnaire Standard!!
